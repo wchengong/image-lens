@@ -7,7 +7,7 @@ console.log('ok usa!')
 
 
 $('img').imageLens({
-    imageSrc: 'image-lens/img/watch-zoom.jpg',
+    imageSrc: '/image-lens/img/watch-zoom.jpg',
     lensSize: 400,
     borderColor: 'yellow'
     });
